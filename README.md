@@ -1,4 +1,4 @@
-# ocr
+#  OCR with EasyOCR and Streamlit
 
 ![Example Image](https://github.com/divyanshuxyz/ocr/blob/main/snapshot/0.png)
 ![Example Image](https://github.com/divyanshuxyz/ocr/blob/main/snapshot/1.png)
@@ -9,7 +9,7 @@ Certainly! Below is a basic README file for your Streamlit OCR app, including in
 
 ---
 
-# OCR with EasyOCR and Streamlit
+
 
 ## Overview
 
